@@ -52,7 +52,7 @@ python3 minimax.py
 
 ```
 
-### 📊 Como funciona o algoritmo Minimax?
+## 📊 Como funciona o algoritmo Minimax?
 O algoritmo Minimax simula todas as jogadas possíveis para o computador e o jogador. Ele atribui valores às jogadas de acordo com o resultado final:
 
 - Vitória do computador ("O"): 10 - profundidade
@@ -63,7 +63,9 @@ O algoritmo Minimax simula todas as jogadas possíveis para o computador e o jog
 
 O computador sempre escolhe a jogada com o maior valor possível para ele.
 
-### 🧩 Exemplos de jogadas
+---
+
+## 🧩 Exemplos de jogadas
 - O jogador sempre joga com "X"
 
 - O computador joga com "O"
@@ -78,6 +80,8 @@ O computador sempre escolhe a jogada com o maior valor possível para ele.
 
 ![](./assets/fim.png)
 
-### ✍️ Autor
+---
+
+## ✍️ Autor
 
 #### Desenvolvido por Carolina Mendes - Web Developer 💻
